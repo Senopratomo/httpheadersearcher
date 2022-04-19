@@ -1,0 +1,23 @@
+# IDE
+.idea
+
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+
+**/target/*
+*.iml
+/target/**
+/out/*
+target
+S_win
+
+httpheadersearcher_macx64/**
+httpheadersearcher_macx64.zip
+httpheadersearcher_nix-x64/**
+httpheadersearcher_nix-x64.zip
+httpheadersearcher_win/**
+httpheadersearcher_win.zip
